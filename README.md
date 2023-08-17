@@ -1,0 +1,1 @@
+# yamap-plans.user.js
