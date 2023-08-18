@@ -14,5 +14,5 @@ $(function() {
    $('.Print__Table td').each(function(index) {
        $(this).attr('contentEditable','true');
    });
-    $('.Plan__Other').append("<div contentEditable='true' style='padding:0.5rem'>Hello</div>");
+    $('.Plan__Other').append("<div contentEditable='true' style='padding:0.5rem'>編集できます</div>");
 });
