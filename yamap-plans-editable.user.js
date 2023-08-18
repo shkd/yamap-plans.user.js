@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YAMAP 登山計画書の表組みを編集可能に！
-// @namespace    http://cync.jp/
+// @namespace    https://github.com/shkd/yamap-plans.user.js
 // @version      0.1
 // @description  YAMAPでプリント用に作成できる登山計画書の登山者名などの表組み部分全てをブラウザで編集出来るようにするスクリプトです。
 // @author       Shuhei Koide
