@@ -1,1 +1,2 @@
-# yamap-plans.user.js
+# Yampの登山計画書の記入項目をブラウザで編集可能に
+tampermonkeyなどで使える、ブラウザのユーザスクリプトです。
